@@ -1,0 +1,14 @@
+C:\Users\user\Documents\CursoCu\CursoCu\bin\Debug\net8.0\CursoCu.exe
+C:\Users\user\Documents\CursoCu\CursoCu\bin\Debug\net8.0\CursoCu.deps.json
+C:\Users\user\Documents\CursoCu\CursoCu\bin\Debug\net8.0\CursoCu.runtimeconfig.json
+C:\Users\user\Documents\CursoCu\CursoCu\bin\Debug\net8.0\CursoCu.dll
+C:\Users\user\Documents\CursoCu\CursoCu\bin\Debug\net8.0\CursoCu.pdb
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\CursoCu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\CursoCu.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\CursoCu.AssemblyInfo.cs
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\CursoCu.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\CursoCu.dll
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\refint\CursoCu.dll
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\CursoCu.pdb
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\CursoCu.genruntimeconfig.cache
+C:\Users\user\Documents\CursoCu\CursoCu\obj\Debug\net8.0\ref\CursoCu.dll
